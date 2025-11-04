@@ -1,6 +1,6 @@
-# SBF Currency Converter
+# XXX Currency Converter
 
-[![Unit Tests](https://github.com/br-monteiro/eng-gruposbf-backend-javascript/actions/workflows/unit-tests.yml/badge.svg?branch=main)](https://github.com/br-monteiro/eng-gruposbf-backend-javascript/actions/workflows/unit-tests.yml)
+[![Unit Tests](https://github.com/br-monteiro/eng-grupoxxx-backend-javascript/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/br-monteiro/eng-grupoxxx-backend-javascript/actions/workflows/unit-tests.yml)
 
 ### Dependências
  - Docker v20.10.21
@@ -160,11 +160,11 @@ docker compose up
 Os testes unitários podem ser executados diretamente do container docker. Basta rodar os comandos:
 
 ```bash
-docker build -t sbf-currency-converter:latest .
+docker build -t xxx-currency-converter:latest .
 ```
 depois:
 ```bash
-docker run --rm sbf-currency-converter:latest npm test
+docker run --rm xxx-currency-converter:latest npm test
 ```
 
 ## LAUS DEO ∴
