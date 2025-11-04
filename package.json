@@ -1,7 +1,7 @@
 {
-  "name": "eng-gruposbf-backend-javascript",
+  "name": "eng-grupoxxx-backend-javascript",
   "version": "1.0.0",
-  "description": "Technical Challenge of Grupo SBF",
+  "description": "Technical Challenge of Grupo XXX",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha --parallel --recursive \"src/**/*.test.js\"",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/br-monteiro/eng-gruposbf-backend-javascript.git"
+    "url": "git+https://github.com/br-monteiro/eng-grupoxxx-backend-javascript.git"
   },
   "author": "Edinho Monteiro <bruno.monteirodg@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/br-monteiro/eng-gruposbf-backend-javascript/issues"
+    "url": "https://github.com/br-monteiro/eng-grupoxxx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/br-monteiro/eng-gruposbf-backend-javascript#readme",
+  "homepage": "https://github.com/br-monteiro/eng-grupoxxx-backend-javascript#readme",
   "dependencies": {
     "axios": "^1.2.1",
     "bole": "^5.0.1",
